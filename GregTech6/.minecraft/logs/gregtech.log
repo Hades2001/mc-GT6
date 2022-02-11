@@ -1,0 +1,74 @@
+GT_API: ======================
+GT_API: PreInit-Phase started!
+GT_API: PreInit-Phase finished!
+GT_API: =======================
+GT_API_POST: ======================
+GT_API_POST: PreInit-Phase started!
+GT_API_POST: PreInit-Phase finished!
+GT_API_POST: =======================
+GT_Mod: ======================
+GT_Mod: PreInit-Phase started!
+GT_Mod: Removing all original Scrapbox Drops.
+GT_Mod: Adding Scrap with a Weight of 200.0F to the Scrapbox Drops.
+GT_Mod: PreInit-Phase finished!
+GT_Mod: =======================
+GT_API: ===================
+GT_API: Init-Phase started!
+GT_API: If the Loading Bar somehow Freezes at this Point, then you definetly ran out of Memory or permgenspace, look at the other Logs to confirm it.
+GT_API: Init-Phase finished!
+GT_API: ====================
+GT_DL_Thread: Current Version = '6.14.23'; Recent Version = '6.14.23'; Majorly Outdated = No
+GT_API_POST: ===================
+GT_API_POST: Init-Phase started!
+GT_API_POST: Init-Phase finished!
+GT_API_POST: ====================
+GT_Mod: ===================
+GT_Mod: Init-Phase started!
+GT_Mod: Init-Phase finished!
+GT_Mod: ====================
+GT_API: =======================
+GT_API: PostInit-Phase started!
+GT_API: If the Loading Bar somehow Freezes at this Point, then you definetly ran out of Memory or permgenspace, look at the other Logs to confirm it.
+GT_API: PostInit-Phase finished!
+GT_API: ========================
+GT_API_POST: =======================
+GT_API_POST: PostInit-Phase started!
+GT_API_POST: PostInit-Phase finished!
+GT_API_POST: ========================
+GT_Mod: =======================
+GT_Mod: PostInit-Phase started!
+GT_Mod: PostInit-Phase finished!
+GT_Mod: Doing IC2-Exp Things.
+GT_Mod: Doing BC Recipes.
+GT_Mod: Doing RC Recipes.
+ERROR: Recipe has less than the minimal amount of general Inputs!
+Recipe Map: gt.recipe.injector
+Input Items:  ¾«Á¶»ðÊ¯; 
+Input Fluid:  
+Output Items: ¾«Á¶»ðÊ¯; 
+Output Fluid: ic2pahoehoelava;
+	at gregtech.compat.Compat_Recipes_Railcraft.onPostLoad(Compat_Recipes_Railcraft.java:154)
+	at gregapi.api.Abstract_Mod.onModPostInit(Abstract_Mod.java:273)
+	at gregtech.GT6_Main.onPostLoad(GT6_Main.java:754)
+ERROR: Recipe has less than the minimal amount of general Inputs!
+Recipe Map: gt.recipe.injector
+Input Items:  ËéÁÑ»ðÊ¯; 
+Input Fluid:  
+Output Items: ËéÁÑ»ðÊ¯; 
+Output Fluid: ic2pahoehoelava;
+	at gregtech.compat.Compat_Recipes_Railcraft.onPostLoad(Compat_Recipes_Railcraft.java:157)
+	at gregapi.api.Abstract_Mod.onModPostInit(Abstract_Mod.java:273)
+	at gregtech.GT6_Main.onPostLoad(GT6_Main.java:754)
+GT_Mod: Doing Thermal Foundation Recipes.
+GT_Mod: Doing Thermal Dynamics Recipes.
+GT_Mod: Doing Thermal Expansion Recipes.
+GT_Mod: Doing Forestry Recipes.
+GT_Mod: Doing AE Recipes.
+GT_Mod: Doing PR Recipes.
+GT_Mod: Doing BoP Recipes.
+GT_Mod: Doing Extra Utilities Recipes.
+GT_Mod: Replacing Vanilla alike Recipes.
+GT_Mod: Copying all of the Forestry Centrifuge/Squeezer Recipes to GT Machines
+GT_Mod: ========================
+GT_API: Remapping ItemStackMaps due to ID Map change. Those damn Items should have a consistent Hashcode, but noooo, ofcourse they break Basic Code Conventions! Thanks Forge and Mojang!
+GT_API: Remapping ItemStackMaps due to ID Map change. Those damn Items should have a consistent Hashcode, but noooo, ofcourse they break Basic Code Conventions! Thanks Forge and Mojang!
